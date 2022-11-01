@@ -875,17 +875,10 @@ body {
     margin-top: 40px;
     display: flex;
     flex-wrap: wrap;
-    grid-column: 24px;
     gap: 24px;
 }
 
-.form-contact__title {}
 
-.title-box {}
-
-.title-box__text {}
-
-.title-box__title {}
 
 .form-contact__line {
     flex: 1 1 48%;
@@ -939,7 +932,6 @@ body {
   resize: vertical;
 }
 
-.checkbox__text {}
 
 .form-contact__checkbox {
     position: absolute;
@@ -949,7 +941,6 @@ body {
 
 }
 
-.form-contact__checkbox {}
 
 .form-contact__line>label.form-contact__label-checkbox {
     padding-left: 28px;
@@ -1001,10 +992,6 @@ color: #424551;
     flex: 1 1 48.3%;
 }
 
-.form-contact__button {}
-
-.botton {}
-
 
 
 
@@ -1012,9 +999,6 @@ color: #424551;
 
 
 footer {
-    /* height: 396px; */
-
-
     background: #1E212C;
 }
 
@@ -1051,16 +1035,7 @@ opacity: 0.6;
 .footer__title .title-box__socials{
     gap: 20px;
 }
-.title-box {
-}
-.title-box__socials {
-}
-.title-box__img {
-}
-.footer__site-map {
-}
-.footer__content {
-}
+
 .footer__list li:first-child,
 .footer__titletext{
     font-style: normal;
@@ -1085,10 +1060,7 @@ margin-bottom: 12px;
 margin-bottom: 8px;
 opacity: 0.6;
 }
-.footer__item {
-}
-.footer__courses {
-}
+
 .footer__contact .telef,
 .footer__contact .email {
     position: relative;
@@ -1119,14 +1091,7 @@ opacity: 0.6;
 .footer__titletext {
     margin-bottom: 24px;
 }
-.footer__emailform {
-}
-.footer__form-futer {
-}
-.footer__dev {
-}
-.dev {
-}
+
 .footer__body {
     display: flex;
     flex-direction: column;
