@@ -1072,7 +1072,7 @@ opacity: 0.6;
     position: absolute;
     content: "";
     left: 0;
-    top: 6;
+    top: 6px;
     width: 16px;
     height: 16px;
     background-color: #F52F6E;
