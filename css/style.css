@@ -928,7 +928,8 @@ body {
 }
 
 .form-contact__textarea {
-    height: 128px;
+       min-height: 130px;
+    max-height: 500px;
   resize: vertical;
 }
 
